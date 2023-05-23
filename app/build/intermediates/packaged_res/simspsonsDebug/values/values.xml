@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="background_color1">#E6E8EC</color>
+    <color name="background_color2">#E6F4DF</color>
+    <color name="background_color3">#DBE8FB</color>
+    <color name="black">#FF000000</color>
+    <color name="blue">#03314B</color>
+    <color name="dark_blue">#FF002E48</color>
+    <color name="faint_grey">#D3D3D3</color>
+    <color name="grayish_blue">#CECFD8</color>
+    <color name="green">#1FCC97</color>
+    <color name="grey">#808080</color>
+    <color name="light_blue">#36647E</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="red">#FF736D</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="very_soft_cyan">#a3fef5</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yello_orange">#FFAE42</color>
+    <color name="yellow">#FEFF00</color>
+    <dimen name="app_bar_height">200dp</dimen>
+    <dimen name="card_elevation">4dp</dimen>
+    <dimen name="card_radius">8dp</dimen>
+    <dimen name="container_horizontal_margin">16dp</dimen>
+    <dimen name="container_margin">8dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="item_width">500dp</dimen>
+    <dimen name="list_width">380dp</dimen>
+    <dimen name="margin_large">8dp</dimen>
+    <dimen name="margin_small">4dp</dimen>
+    <dimen name="margin_xlarge">16dp</dimen>
+    <dimen name="padding_large">8dp</dimen>
+    <dimen name="padding_small">4dp</dimen>
+    <dimen name="sat_score_label_min_width">150dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <string name="app_name">Simpsons</string>
+    <string name="ascending">A-Z</string>
+    <string name="characters">Characters</string>
+    <string name="descending">Z-A</string>
+    <string name="empty_data">No Data Available Now \nPull to refresh</string>
+    <string name="enter_search_text_here">Search Here</string>
+    <string name="item_description">Description</string>
+    <string name="item_title">Title</string>
+    <string name="no_data_found">No Data Found !</string>
+    <string name="search">Search</string>
+    <string name="something_went_wrong">Something Went Wrong \nPull to refresh</string>
+    <string name="sort">Sort</string>
+    <string name="title_activity_item_detail_host">ItemDetailHostActivity</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="title_item_list">Items</string>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar"/>
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="colorPrimary">@color/blue</item>
+        <item name="colorPrimaryDark">@color/dark_blue</item>
+        <item name="colorPrimaryVariant">@color/white</item>
+        <item name="colorOnPrimary">@color/dark_blue</item>
+        <item name="colorAccent">@color/dark_blue</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="android:fontFamily">serif</item>
+        <item name="android:statusBarColor">@color/dark_blue</item>
+    </style>
+    <style name="Theme.SimpsonsViewer" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="Theme.SimpsonsViewer.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+    <style name="Theme.SimpsonsViewer.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme.SimpsonsViewer.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+    <style name="ToolbarTheme" parent="@style/ThemeOverlay.AppCompat">
+        <!-- Customize color of navigation drawer icon and back arrow -->
+        <item name="colorControlNormal">@color/white</item>
+    </style>
+</resources>
