@@ -1,18 +1,18 @@
 [
     {
-        "merged": "/Users/ashish/Desktop/drishty/Simpsons/app/build/intermediates/incremental/mergeSimspsonsDebugResources/stripped.dir/layout/simpsons_home_fragment.xml",
-        "source": "/Users/ashish/Desktop/drishty/Simpsons/app/src/main/res/layout/simpsons_home_fragment.xml"
+        "merged": "/Users/ashish/Desktop/drishty/CharacterSimpsons/app/build/intermediates/incremental/mergeSimspsonsDebugResources/stripped.dir/layout/simpsons_detail_fragment.xml",
+        "source": "/Users/ashish/Desktop/drishty/CharacterSimpsons/app/src/main/res/layout/simpsons_detail_fragment.xml"
     },
     {
-        "merged": "/Users/ashish/Desktop/drishty/Simpsons/app/build/intermediates/incremental/mergeSimspsonsDebugResources/stripped.dir/layout/simpsons_detail_fragment.xml",
-        "source": "/Users/ashish/Desktop/drishty/Simpsons/app/src/main/res/layout/simpsons_detail_fragment.xml"
+        "merged": "/Users/ashish/Desktop/drishty/CharacterSimpsons/app/build/intermediates/incremental/mergeSimspsonsDebugResources/stripped.dir/layout/simpsons_home_fragment.xml",
+        "source": "/Users/ashish/Desktop/drishty/CharacterSimpsons/app/src/main/res/layout/simpsons_home_fragment.xml"
     },
     {
-        "merged": "/Users/ashish/Desktop/drishty/Simpsons/app/build/intermediates/incremental/mergeSimspsonsDebugResources/stripped.dir/layout/simpsons_row.xml",
-        "source": "/Users/ashish/Desktop/drishty/Simpsons/app/src/main/res/layout/simpsons_row.xml"
+        "merged": "/Users/ashish/Desktop/drishty/CharacterSimpsons/app/build/intermediates/incremental/mergeSimspsonsDebugResources/stripped.dir/layout/main_activity.xml",
+        "source": "/Users/ashish/Desktop/drishty/CharacterSimpsons/app/src/main/res/layout/main_activity.xml"
     },
     {
-        "merged": "/Users/ashish/Desktop/drishty/Simpsons/app/build/intermediates/incremental/mergeSimspsonsDebugResources/stripped.dir/layout/main_activity.xml",
-        "source": "/Users/ashish/Desktop/drishty/Simpsons/app/src/main/res/layout/main_activity.xml"
+        "merged": "/Users/ashish/Desktop/drishty/CharacterSimpsons/app/build/intermediates/incremental/mergeSimspsonsDebugResources/stripped.dir/layout/simpsons_row.xml",
+        "source": "/Users/ashish/Desktop/drishty/CharacterSimpsons/app/src/main/res/layout/simpsons_row.xml"
     }
 ]

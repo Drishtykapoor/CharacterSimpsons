@@ -1,0 +1,2 @@
+#- File Locator -
+listingFile=../../apk/wire/debug/output-metadata.json

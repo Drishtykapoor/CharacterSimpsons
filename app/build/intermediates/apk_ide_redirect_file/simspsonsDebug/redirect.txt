@@ -1,0 +1,2 @@
+#- File Locator -
+listingFile=../../apk/simspsons/debug/output-metadata.json

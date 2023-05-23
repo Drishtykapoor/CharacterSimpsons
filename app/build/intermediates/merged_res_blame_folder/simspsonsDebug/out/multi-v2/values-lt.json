@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/ashish/Desktop/drishty/Simpsons/app/build/intermediates/incremental/mergeSimspsonsDebugResources/merged.dir/values-lt/values-lt.xml",
+            "outputFile": "/Users/ashish/Desktop/drishty/CharacterSimpsons/app/build/intermediates/incremental/mergeSimspsonsDebugResources/merged.dir/values-lt/values-lt.xml",
             "map": [
                 {
                     "source": "/Users/ashish/.gradle/caches/transforms-3/407812672da1bdc769a332fd2b93c1aa/transformed/navigation-ui-2.3.5/res/values-lt/values-lt.xml",

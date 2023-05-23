@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/ashish/Desktop/drishty/Simpsons/app/build/intermediates/incremental/mergeSimspsonsDebugResources/merged.dir/values-land/values-land.xml",
+            "outputFile": "/Users/ashish/Desktop/drishty/CharacterSimpsons/app/build/intermediates/incremental/mergeSimspsonsDebugResources/merged.dir/values-land/values-land.xml",
             "map": [
                 {
                     "source": "/Users/ashish/.gradle/caches/transforms-3/d728aa61d1766cc101fb1451c207ab2a/transformed/appcompat-1.4.1/res/values-land/values-land.xml",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/Users/ashish/Desktop/drishty/Simpsons/app/src/main/res/values-land/dimens.xml",
+                    "source": "/Users/ashish/Desktop/drishty/CharacterSimpsons/app/src/main/res/values-land/dimens.xml",
                     "from": {
                         "startLines": "3,2",
                         "startColumns": "4,4",

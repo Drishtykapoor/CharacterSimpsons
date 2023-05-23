@@ -1,130 +1,130 @@
 [
     {
-        "merged": "/Users/ashish/Desktop/drishty/Simpsons/app/build/intermediates/merged_res/simspsonsDebug/layout_simpsons_row.xml.flat",
-        "source": "/Users/ashish/Desktop/drishty/Simpsons/app/src/main/res/layout/simpsons_row.xml"
+        "merged": "/Users/ashish/Desktop/drishty/CharacterSimpsons/app/build/intermediates/merged_res/simspsonsDebug/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/ashish/Desktop/drishty/CharacterSimpsons/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "/Users/ashish/Desktop/drishty/Simpsons/app/build/intermediates/merged_res/simspsonsDebug/layout_main_activity.xml.flat",
-        "source": "/Users/ashish/Desktop/drishty/Simpsons/app/src/main/res/layout/main_activity.xml"
+        "merged": "/Users/ashish/Desktop/drishty/CharacterSimpsons/app/build/intermediates/merged_res/simspsonsDebug/layout-sw600dp_simpsons_detail_fragment.xml.flat",
+        "source": "/Users/ashish/Desktop/drishty/CharacterSimpsons/app/src/main/res/layout-sw600dp/simpsons_detail_fragment.xml"
     },
     {
-        "merged": "/Users/ashish/Desktop/drishty/Simpsons/app/build/intermediates/merged_res/simspsonsDebug/layout_simpsons_detail_fragment.xml.flat",
-        "source": "/Users/ashish/Desktop/drishty/Simpsons/app/src/main/res/layout/simpsons_detail_fragment.xml"
+        "merged": "/Users/ashish/Desktop/drishty/CharacterSimpsons/app/build/intermediates/merged_res/simspsonsDebug/drawable_sad_cloud.png.flat",
+        "source": "/Users/ashish/Desktop/drishty/CharacterSimpsons/app/src/main/res/drawable/sad_cloud.png"
     },
     {
-        "merged": "/Users/ashish/Desktop/drishty/Simpsons/app/build/intermediates/merged_res/simspsonsDebug/drawable_search.png.flat",
-        "source": "/Users/ashish/Desktop/drishty/Simpsons/app/src/main/res/drawable/search.png"
+        "merged": "/Users/ashish/Desktop/drishty/CharacterSimpsons/app/build/intermediates/merged_res/simspsonsDebug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/ashish/Desktop/drishty/CharacterSimpsons/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "/Users/ashish/Desktop/drishty/Simpsons/app/build/intermediates/merged_res/simspsonsDebug/drawable_ic_launcher_background.xml.flat",
-        "source": "/Users/ashish/Desktop/drishty/Simpsons/app/src/main/res/drawable/ic_launcher_background.xml"
+        "merged": "/Users/ashish/Desktop/drishty/CharacterSimpsons/app/build/intermediates/merged_res/simspsonsDebug/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/ashish/Desktop/drishty/CharacterSimpsons/app/src/main/res/mipmap-mdpi/ic_launcher.webp"
     },
     {
-        "merged": "/Users/ashish/Desktop/drishty/Simpsons/app/build/intermediates/merged_res/simspsonsDebug/xml_data_extraction_rules.xml.flat",
-        "source": "/Users/ashish/Desktop/drishty/Simpsons/app/src/main/res/xml/data_extraction_rules.xml"
+        "merged": "/Users/ashish/Desktop/drishty/CharacterSimpsons/app/build/intermediates/merged_res/simspsonsDebug/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/ashish/Desktop/drishty/CharacterSimpsons/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "/Users/ashish/Desktop/drishty/Simpsons/app/build/intermediates/merged_res/simspsonsDebug/drawable_roundedbutton.xml.flat",
-        "source": "/Users/ashish/Desktop/drishty/Simpsons/app/src/main/res/drawable/roundedbutton.xml"
+        "merged": "/Users/ashish/Desktop/drishty/CharacterSimpsons/app/build/intermediates/merged_res/simspsonsDebug/navigation_primary_nav_graph.xml.flat",
+        "source": "/Users/ashish/Desktop/drishty/CharacterSimpsons/app/src/main/res/navigation/primary_nav_graph.xml"
     },
     {
-        "merged": "/Users/ashish/Desktop/drishty/Simpsons/app/build/intermediates/merged_res/simspsonsDebug/mipmap-anydpi-v33_ic_launcher.xml.flat",
-        "source": "/Users/ashish/Desktop/drishty/Simpsons/app/src/main/res/mipmap-anydpi-v33/ic_launcher.xml"
+        "merged": "/Users/ashish/Desktop/drishty/CharacterSimpsons/app/build/intermediates/merged_res/simspsonsDebug/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/ashish/Desktop/drishty/CharacterSimpsons/app/src/main/res/mipmap-xhdpi/ic_launcher.webp"
     },
     {
-        "merged": "/Users/ashish/Desktop/drishty/Simpsons/app/build/intermediates/merged_res/simspsonsDebug/navigation_primary_nav_graph.xml.flat",
-        "source": "/Users/ashish/Desktop/drishty/Simpsons/app/src/main/res/navigation/primary_nav_graph.xml"
+        "merged": "/Users/ashish/Desktop/drishty/CharacterSimpsons/app/build/intermediates/merged_res/simspsonsDebug/layout_simpsons_detail_fragment.xml.flat",
+        "source": "/Users/ashish/Desktop/drishty/CharacterSimpsons/app/src/main/res/layout/simpsons_detail_fragment.xml"
     },
     {
-        "merged": "/Users/ashish/Desktop/drishty/Simpsons/app/build/intermediates/merged_res/simspsonsDebug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "/Users/ashish/Desktop/drishty/Simpsons/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "/Users/ashish/Desktop/drishty/CharacterSimpsons/app/build/intermediates/merged_res/simspsonsDebug/layout_simpsons_home_fragment.xml.flat",
+        "source": "/Users/ashish/Desktop/drishty/CharacterSimpsons/app/src/main/res/layout/simpsons_home_fragment.xml"
     },
     {
-        "merged": "/Users/ashish/Desktop/drishty/Simpsons/app/build/intermediates/merged_res/simspsonsDebug/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "/Users/ashish/Desktop/drishty/Simpsons/app/src/main/res/mipmap-mdpi/ic_launcher.webp"
+        "merged": "/Users/ashish/Desktop/drishty/CharacterSimpsons/app/build/intermediates/merged_res/simspsonsDebug/layout_main_activity.xml.flat",
+        "source": "/Users/ashish/Desktop/drishty/CharacterSimpsons/app/src/main/res/layout/main_activity.xml"
     },
     {
-        "merged": "/Users/ashish/Desktop/drishty/Simpsons/app/build/intermediates/merged_res/simspsonsDebug/layout_simpsons_home_fragment.xml.flat",
-        "source": "/Users/ashish/Desktop/drishty/Simpsons/app/src/main/res/layout/simpsons_home_fragment.xml"
+        "merged": "/Users/ashish/Desktop/drishty/CharacterSimpsons/app/build/intermediates/merged_res/simspsonsDebug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/ashish/Desktop/drishty/CharacterSimpsons/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
     },
     {
-        "merged": "/Users/ashish/Desktop/drishty/Simpsons/app/build/intermediates/merged_res/simspsonsDebug/layout-sw600dp_simpsons_home_fragment.xml.flat",
-        "source": "/Users/ashish/Desktop/drishty/Simpsons/app/src/main/res/layout-sw600dp/simpsons_home_fragment.xml"
+        "merged": "/Users/ashish/Desktop/drishty/CharacterSimpsons/app/build/intermediates/merged_res/simspsonsDebug/layout_simpsons_row.xml.flat",
+        "source": "/Users/ashish/Desktop/drishty/CharacterSimpsons/app/src/main/res/layout/simpsons_row.xml"
     },
     {
-        "merged": "/Users/ashish/Desktop/drishty/Simpsons/app/build/intermediates/merged_res/simspsonsDebug/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "/Users/ashish/Desktop/drishty/Simpsons/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "/Users/ashish/Desktop/drishty/CharacterSimpsons/app/build/intermediates/merged_res/simspsonsDebug/navigation_secondary_details_sub_nav_graph.xml.flat",
+        "source": "/Users/ashish/Desktop/drishty/CharacterSimpsons/app/src/main/res/navigation/secondary_details_sub_nav_graph.xml"
     },
     {
-        "merged": "/Users/ashish/Desktop/drishty/Simpsons/app/build/intermediates/merged_res/simspsonsDebug/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "/Users/ashish/Desktop/drishty/Simpsons/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "/Users/ashish/Desktop/drishty/CharacterSimpsons/app/build/intermediates/merged_res/simspsonsDebug/mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "/Users/ashish/Desktop/drishty/CharacterSimpsons/app/src/main/res/mipmap-anydpi-v33/ic_launcher.xml"
     },
     {
-        "merged": "/Users/ashish/Desktop/drishty/Simpsons/app/build/intermediates/merged_res/simspsonsDebug/layout-sw600dp_simpsons_detail_fragment.xml.flat",
-        "source": "/Users/ashish/Desktop/drishty/Simpsons/app/src/main/res/layout-sw600dp/simpsons_detail_fragment.xml"
+        "merged": "/Users/ashish/Desktop/drishty/CharacterSimpsons/app/build/intermediates/merged_res/simspsonsDebug/drawable_roundedbutton.xml.flat",
+        "source": "/Users/ashish/Desktop/drishty/CharacterSimpsons/app/src/main/res/drawable/roundedbutton.xml"
     },
     {
-        "merged": "/Users/ashish/Desktop/drishty/Simpsons/app/build/intermediates/merged_res/simspsonsDebug/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "/Users/ashish/Desktop/drishty/Simpsons/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "/Users/ashish/Desktop/drishty/CharacterSimpsons/app/build/intermediates/merged_res/simspsonsDebug/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/ashish/Desktop/drishty/CharacterSimpsons/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "/Users/ashish/Desktop/drishty/Simpsons/app/build/intermediates/merged_res/simspsonsDebug/xml_backup_rules.xml.flat",
-        "source": "/Users/ashish/Desktop/drishty/Simpsons/app/src/main/res/xml/backup_rules.xml"
+        "merged": "/Users/ashish/Desktop/drishty/CharacterSimpsons/app/build/intermediates/merged_res/simspsonsDebug/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/ashish/Desktop/drishty/CharacterSimpsons/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "/Users/ashish/Desktop/drishty/Simpsons/app/build/intermediates/merged_res/simspsonsDebug/menu_sort_menu.xml.flat",
-        "source": "/Users/ashish/Desktop/drishty/Simpsons/app/src/main/res/menu/sort_menu.xml"
+        "merged": "/Users/ashish/Desktop/drishty/CharacterSimpsons/app/build/intermediates/merged_res/simspsonsDebug/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/ashish/Desktop/drishty/CharacterSimpsons/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "/Users/ashish/Desktop/drishty/Simpsons/app/build/intermediates/merged_res/simspsonsDebug/menu_menu.xml.flat",
-        "source": "/Users/ashish/Desktop/drishty/Simpsons/app/src/main/res/menu/menu.xml"
+        "merged": "/Users/ashish/Desktop/drishty/CharacterSimpsons/app/build/intermediates/merged_res/simspsonsDebug/menu_sort_menu.xml.flat",
+        "source": "/Users/ashish/Desktop/drishty/CharacterSimpsons/app/src/main/res/menu/sort_menu.xml"
     },
     {
-        "merged": "/Users/ashish/Desktop/drishty/Simpsons/app/build/intermediates/merged_res/simspsonsDebug/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "/Users/ashish/Desktop/drishty/Simpsons/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "/Users/ashish/Desktop/drishty/CharacterSimpsons/app/build/intermediates/merged_res/simspsonsDebug/xml_backup_rules.xml.flat",
+        "source": "/Users/ashish/Desktop/drishty/CharacterSimpsons/app/src/main/res/xml/backup_rules.xml"
     },
     {
-        "merged": "/Users/ashish/Desktop/drishty/Simpsons/app/build/intermediates/merged_res/simspsonsDebug/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "/Users/ashish/Desktop/drishty/Simpsons/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "/Users/ashish/Desktop/drishty/CharacterSimpsons/app/build/intermediates/merged_res/simspsonsDebug/mipmap-xhdpi_stunned.png.flat",
+        "source": "/Users/ashish/Desktop/drishty/CharacterSimpsons/app/src/main/res/mipmap-xhdpi/stunned.png"
     },
     {
-        "merged": "/Users/ashish/Desktop/drishty/Simpsons/app/build/intermediates/merged_res/simspsonsDebug/navigation_secondary_details_sub_nav_graph.xml.flat",
-        "source": "/Users/ashish/Desktop/drishty/Simpsons/app/src/main/res/navigation/secondary_details_sub_nav_graph.xml"
+        "merged": "/Users/ashish/Desktop/drishty/CharacterSimpsons/app/build/intermediates/merged_res/simspsonsDebug/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/ashish/Desktop/drishty/CharacterSimpsons/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "/Users/ashish/Desktop/drishty/Simpsons/app/build/intermediates/merged_res/simspsonsDebug/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "/Users/ashish/Desktop/drishty/Simpsons/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "/Users/ashish/Desktop/drishty/CharacterSimpsons/app/build/intermediates/merged_res/simspsonsDebug/layout-sw600dp_simpsons_home_fragment.xml.flat",
+        "source": "/Users/ashish/Desktop/drishty/CharacterSimpsons/app/src/main/res/layout-sw600dp/simpsons_home_fragment.xml"
     },
     {
-        "merged": "/Users/ashish/Desktop/drishty/Simpsons/app/build/intermediates/merged_res/simspsonsDebug/drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "/Users/ashish/Desktop/drishty/Simpsons/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+        "merged": "/Users/ashish/Desktop/drishty/CharacterSimpsons/app/build/intermediates/merged_res/simspsonsDebug/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/ashish/Desktop/drishty/CharacterSimpsons/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "/Users/ashish/Desktop/drishty/Simpsons/app/build/intermediates/merged_res/simspsonsDebug/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "/Users/ashish/Desktop/drishty/Simpsons/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "/Users/ashish/Desktop/drishty/CharacterSimpsons/app/build/intermediates/merged_res/simspsonsDebug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/ashish/Desktop/drishty/CharacterSimpsons/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "/Users/ashish/Desktop/drishty/Simpsons/app/build/intermediates/merged_res/simspsonsDebug/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "/Users/ashish/Desktop/drishty/Simpsons/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "/Users/ashish/Desktop/drishty/CharacterSimpsons/app/build/intermediates/merged_res/simspsonsDebug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/ashish/Desktop/drishty/CharacterSimpsons/app/src/main/res/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "/Users/ashish/Desktop/drishty/Simpsons/app/build/intermediates/merged_res/simspsonsDebug/drawable_duck.png.flat",
-        "source": "/Users/ashish/Desktop/drishty/Simpsons/app/src/main/res/drawable/duck.png"
+        "merged": "/Users/ashish/Desktop/drishty/CharacterSimpsons/app/build/intermediates/merged_res/simspsonsDebug/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/ashish/Desktop/drishty/CharacterSimpsons/app/src/main/res/xml/data_extraction_rules.xml"
     },
     {
-        "merged": "/Users/ashish/Desktop/drishty/Simpsons/app/build/intermediates/merged_res/simspsonsDebug/drawable_sad_cloud.png.flat",
-        "source": "/Users/ashish/Desktop/drishty/Simpsons/app/src/main/res/drawable/sad_cloud.png"
+        "merged": "/Users/ashish/Desktop/drishty/CharacterSimpsons/app/build/intermediates/merged_res/simspsonsDebug/menu_menu.xml.flat",
+        "source": "/Users/ashish/Desktop/drishty/CharacterSimpsons/app/src/main/res/menu/menu.xml"
     },
     {
-        "merged": "/Users/ashish/Desktop/drishty/Simpsons/app/build/intermediates/merged_res/simspsonsDebug/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "/Users/ashish/Desktop/drishty/Simpsons/app/src/main/res/mipmap-hdpi/ic_launcher.webp"
+        "merged": "/Users/ashish/Desktop/drishty/CharacterSimpsons/app/build/intermediates/merged_res/simspsonsDebug/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/ashish/Desktop/drishty/CharacterSimpsons/app/src/main/res/mipmap-hdpi/ic_launcher.webp"
     },
     {
-        "merged": "/Users/ashish/Desktop/drishty/Simpsons/app/build/intermediates/merged_res/simspsonsDebug/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "/Users/ashish/Desktop/drishty/Simpsons/app/src/main/res/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "/Users/ashish/Desktop/drishty/CharacterSimpsons/app/build/intermediates/merged_res/simspsonsDebug/drawable_duck.png.flat",
+        "source": "/Users/ashish/Desktop/drishty/CharacterSimpsons/app/src/main/res/drawable/duck.png"
     },
     {
-        "merged": "/Users/ashish/Desktop/drishty/Simpsons/app/build/intermediates/merged_res/simspsonsDebug/mipmap-xhdpi_stunned.png.flat",
-        "source": "/Users/ashish/Desktop/drishty/Simpsons/app/src/main/res/mipmap-xhdpi/stunned.png"
+        "merged": "/Users/ashish/Desktop/drishty/CharacterSimpsons/app/build/intermediates/merged_res/simspsonsDebug/drawable_search.png.flat",
+        "source": "/Users/ashish/Desktop/drishty/CharacterSimpsons/app/src/main/res/drawable/search.png"
     }
 ]

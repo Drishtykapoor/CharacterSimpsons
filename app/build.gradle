@@ -21,14 +21,14 @@ android {
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         flavorDimensions += "version"
         productFlavors {
-            create("simspsons") {
+            create("simpsons") {
                 dimension = "version"
-                applicationIdSuffix = ".simspsons"
+                applicationIdSuffix = ".simpsonsviewer"
                 manifestPlaceholders = [appLabel : "SimpsonsVariant"]
             }
             create("wire") {
                 dimension = "version"
-                applicationIdSuffix = ".wire"
+                applicationIdSuffix = ".wireviewer"
                 manifestPlaceholders = [appLabel : "WireVariant"]
             }
         }

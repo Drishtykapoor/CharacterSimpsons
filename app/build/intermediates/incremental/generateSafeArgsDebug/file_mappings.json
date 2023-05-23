@@ -1,0 +1,1 @@
+[{"navFile":"src/main/res/navigation/secondary_details_sub_nav_graph.xml","javaFiles":["com.sample.simpsonsviewer.view.SimpsonsDetailFragmentArgs"]},{"navFile":"src/main/res/navigation/primary_nav_graph.xml","javaFiles":["com.sample.simpsonsviewer.view.SimpsonsHomeFragmentDirections","com.sample.simpsonsviewer.view.SimpsonsDetailFragmentArgs"]}]

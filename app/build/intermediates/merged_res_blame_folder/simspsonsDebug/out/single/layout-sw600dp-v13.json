@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/Users/ashish/Desktop/drishty/Simpsons/app/build/intermediates/incremental/mergeSimspsonsDebugResources/stripped.dir/layout-sw600dp-v13/simpsons_detail_fragment.xml",
-        "source": "/Users/ashish/Desktop/drishty/Simpsons/app/src/main/res/layout-sw600dp/simpsons_detail_fragment.xml"
+        "merged": "/Users/ashish/Desktop/drishty/CharacterSimpsons/app/build/intermediates/incremental/mergeSimspsonsDebugResources/stripped.dir/layout-sw600dp-v13/simpsons_home_fragment.xml",
+        "source": "/Users/ashish/Desktop/drishty/CharacterSimpsons/app/src/main/res/layout-sw600dp/simpsons_home_fragment.xml"
     },
     {
-        "merged": "/Users/ashish/Desktop/drishty/Simpsons/app/build/intermediates/incremental/mergeSimspsonsDebugResources/stripped.dir/layout-sw600dp-v13/simpsons_home_fragment.xml",
-        "source": "/Users/ashish/Desktop/drishty/Simpsons/app/src/main/res/layout-sw600dp/simpsons_home_fragment.xml"
+        "merged": "/Users/ashish/Desktop/drishty/CharacterSimpsons/app/build/intermediates/incremental/mergeSimspsonsDebugResources/stripped.dir/layout-sw600dp-v13/simpsons_detail_fragment.xml",
+        "source": "/Users/ashish/Desktop/drishty/CharacterSimpsons/app/src/main/res/layout-sw600dp/simpsons_detail_fragment.xml"
     }
 ]

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.sample.character.repository.SimpsonsHomeRepositoryImplTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-05-23T19:13:42" hostname="C02Y41V2JGH5" time="0.875">
+  <properties/>
+  <testcase name="whenGetDataThenCallViewWithData" classname="com.sample.character.repository.SimpsonsHomeRepositoryImplTest" time="0.875"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
